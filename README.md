@@ -11,3 +11,5 @@ Now you can run the project with the below command
 ~~~ bash
 py app.py runserver
 ~~~
+## Use spacebar to click the picture
+## Try to click the picture in the good light
