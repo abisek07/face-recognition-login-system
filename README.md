@@ -7,10 +7,6 @@ git clone https://github.com/abisek07/face-recognition-login-system.git
 ~~~ bash
 pip install -r requirements.txt
 ~~~
-## Download the required dlib file from given link
-~~~ bash
-dlib-19.8.1-cp36-cp36m-win_amd64.whl
-~~~
 Now you can run the project with the below command
 ~~~ bash
 py app.py runserver
